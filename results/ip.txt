@@ -1,19 +1,23 @@
-193.134.211.209:443#HK-LUCIDACLOUD LIMITED
-141.11.149.89:2053#HK-AKILE LTD
-155.117.224.63:443#HK-Zouter Limited
-141.11.149.89:443#HK-AKILE LTD
-103.115.64.205:443#HK-Cloudie Limited
-167.148.203.3:443#HK-Zouter Limited
-103.247.28.26:443#HK-VMISS Inc.
-178.83.206.250:443#HK-LINKLESS COMMUNICATIONS LIMITED
-167.148.203.71:443#HK-Zouter Limited
-103.106.229.173:2053#SG-BrainStorm Network, Inc
-175.29.23.179:443#HK-PAN-LIAN TECHNOLOGY CO., LIMITED
-178.83.207.31:443#HK-LINKLESS COMMUNICATIONS LIMITED
-156.224.79.247:443#HK-AKILE LTD
-103.97.201.65:443#HK-Zouter Limited
-103.97.200.42:443#HK-Zouter Limited
-166.88.11.105:443#HK-Evoxt Sdn. Bhd.
-175.29.23.138:443#HK-PAN-LIAN TECHNOLOGY CO., LIMITED
-108.165.155.229:443#HK-Evoxt Sdn. Bhd.
-108.165.100.62:443#HK-Evoxt Sdn. Bhd.
+45.89.235.144:443#JP-xTom Japan Corporation
+45.142.127.22:443#JP-xTom Japan Corporation
+45.143.235.81:2053#JP-xTom Japan Corporation
+193.111.30.37:443#JP-xTom Japan Corporation
+45.143.234.108:443#JP-xTom Japan Corporation
+45.94.40.58:8443#JP-xTom Japan Corporation
+185.200.64.17:443#JP-xTom Japan Corporation
+141.98.197.154:443#JP-xTom Japan Corporation
+91.199.209.182:443#JP-xTom Japan Corporation
+109.107.140.90:443#JP-xTom Japan Corporation
+62.106.70.68:443#JP-xTom Japan Corporation
+45.129.9.222:443#JP-xTom Japan Corporation
+193.111.30.254:443#JP-xTom Japan Corporation
+103.201.130.126:443#JP-xTom Japan Corporation
+45.142.126.231:443#JP-xTom Japan Corporation
+45.143.235.138:2053#JP-xTom Japan Corporation
+185.200.65.32:443#JP-xTom Japan Corporation
+45.8.113.90:443#JP-xTom Japan Corporation
+45.143.235.120:443#JP-xTom Japan Corporation
+45.128.210.188:8443#JP-xTom Japan Corporation
+103.53.80.239:443#JP-xTom Japan Corporation
+149.62.44.239:443#JP-xTom Japan Corporation
+45.143.235.64:443#JP-xTom Japan Corporation
