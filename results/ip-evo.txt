@@ -18,3 +18,17 @@
 136.0.110.28:59373#MY-3.94MB/s-Evoxt Sdn. Bhd.
 142.111.146.191:44277#MY-3.30MB/s-Evoxt Sdn. Bhd.
 45.134.36.154:33305#MY-0.99MB/s-Evoxt Sdn. Bhd.
+142.111.146.29:3037#MY-3.82MB/s-Evoxt Sdn. Bhd.
+168.93.198.49:19726#MY-3.25MB/s-Evoxt Sdn. Bhd.
+166.88.7.82:52344#MY-1.98MB/s-Evoxt Sdn. Bhd.
+45.134.36.45:12220#MY-1.24MB/s-Evoxt Sdn. Bhd.
+38.211.230.231:17260#MY-2.64MB/s-Evoxt Sdn. Bhd.
+23.27.53.246:47615#MY-2.71MB/s-Evoxt Sdn. Bhd.
+23.27.48.113:17766#SG-2.34MB/s-The Constant Company, LLC
+108.165.155.188:11363#HK-5.27MB/s-Evoxt Sdn. Bhd.
+23.26.201.5:666#HK-0.09MB/s-Evoxt Sdn. Bhd.
+166.88.11.3:39738#HK-0.07MB/s-Evoxt Sdn. Bhd.
+151.158.0.128:443#HK-3.71MB/s-Evoxt Sdn. Bhd.
+166.88.141.226:34610#HK-3.42MB/s-Evoxt Sdn. Bhd.
+50.114.59.250:666#HK-0.08MB/s-Evoxt Sdn. Bhd.
+96.126.130.86:25565#JP-6.76MB/s-Evoxt Sdn. Bhd.
