@@ -1,0 +1,11 @@
+103.39.78.14:8443#HK-7.67MB/s-Hytron Network Services Limited
+103.97.201.71:443#HK-8.21MB/s-Zouter Limited
+139.59.102.170:443#SG-8.40MB/s-DigitalOcean, LLC
+139.162.41.109:443#SG-7.52MB/s-Akamai Connected Cloud
+103.106.229.173:2053#SG-6.28MB/s-BrainStorm Network, Inc
+138.2.10.165:443#JP-5.29MB/s-Oracle Corporation
+139.162.72.62:443#JP-6.79MB/s-Akamai Connected Cloud
+139.162.96.110:443#JP-6.79MB/s-Akamai Connected Cloud
+103.39.78.112:8443#HK-7.76MB/s-Hytron Network Services Limited
+138.2.95.33:443#SG-5.04MB/s-Oracle Corporation
+138.2.66.236:443#SG-9.05MB/s-Oracle Corporation
