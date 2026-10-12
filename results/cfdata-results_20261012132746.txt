@@ -1,0 +1,24 @@
+﻿13.250.78.140:443#SG-36.73MB/s-Amazon.com, Inc.
+13.215.195.63:443#SG-31.09MB/s-Amazon.com, Inc.
+13.212.245.171:443#SG-28.49MB/s-Amazon.com, Inc.
+13.215.182.29:443#SG-25.71MB/s-Amazon.com, Inc.
+13.212.33.99:443#SG-25.71MB/s-Amazon.com, Inc.
+13.228.2.85:443#SG-23.99MB/s-Amazon.com, Inc.
+13.213.218.87:443#SG-23.86MB/s-Amazon.com, Inc.
+13.215.95.201:443#SG-23.32MB/s-Amazon.com, Inc.
+13.212.210.118:443#SG-22.56MB/s-Amazon.com, Inc.
+103.115.64.183:443#HK-6.41MB/s-Cloudie Limited
+13.250.17.35:443#SG-18.25MB/s-Amazon.com, Inc.
+13.212.33.11:443#SG-16.69MB/s-Amazon.com, Inc.
+13.213.38.199:443#SG-38.78MB/s-Amazon.com, Inc.
+13.215.229.246:443#SG-17.84MB/s-Amazon.com, Inc.
+13.250.129.244:443#SG-19.97MB/s-Amazon.com, Inc.
+13.212.31.121:443#SG-23.63MB/s-Amazon.com, Inc.
+108.165.255.33:443#HK-15.43MB/s-Evoxt Sdn. Bhd.
+108.165.255.242:8443#HK-8.35MB/s-Evoxt Sdn. Bhd.
+13.126.206.240:443#IN-17.60MB/s-Amazon.com, Inc.
+108.165.255.165:443#HK-10.82MB/s-Evoxt Sdn. Bhd.
+13.233.229.128:443#IN-17.03MB/s-Amazon.com, Inc.
+104.245.13.11:443#US-14.36MB/s-xTom
+103.91.219.181:8443#US-6.22MB/s-CoreNET Inc.
+103.95.207.107:443#US-5.33MB/s-CoreNET Inc.
